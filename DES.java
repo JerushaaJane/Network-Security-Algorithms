@@ -40,3 +40,12 @@ public class DES
 
 	}
 }
+/* Output:
+Message Encryption Using DES Algorithm
+-------
+Message [Byte Format] : [B@523884b2
+Message : Secret Information 
+Encrypted Message: [B@59f99ea
+Decrypted Message: Secret Information 
+*/
+
