@@ -61,3 +61,11 @@ public class AES {
     }
 }
 
+/*
+URL Encryption Using AES Algorithm
+------------
+Original URL : www.annauniv.edu
+Encrypted URL : vibpFJW6Cvs5Y+L7t4N6YWWe07+JzS1d3CU2h3mEvEg=
+Decrypted URL : www.annauniv.edu
+*/
+
